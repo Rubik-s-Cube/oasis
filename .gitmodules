@@ -1,0 +1,15 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TianChenjiang/Backend-OASIS.git
+[submodule "frontend-user"]
+	path = frontend-user
+	url = https://github.com/HermitSun/oasis-user.git
+[submodule "frontend-admin/entry"]
+	path = frontend-admin/entry
+	url = https://github.com/HermitSun/oasis-admin-entry.git
+[submodule "frontend-admin/v1"]
+	path = frontend-admin/v1
+	url = https://github.com/HermitSun/oasis-admin-v1.git
+[submodule "frontend-admin/v2"]
+	path = frontend-admin/v2
+	url = https://github.com/HermitSun/oasis-admin-v2.git
