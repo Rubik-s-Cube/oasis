@@ -13,3 +13,6 @@
 [submodule "frontend-admin/v2"]
 	path = frontend-admin/v2
 	url = https://github.com/HermitSun/oasis-admin-v2.git
+[submodule "se3-oasis-scrapy"]
+	path = se3-oasis-scrapy
+	url = https://github.com/Green-Wood/se3-oasis-scrapy.git
